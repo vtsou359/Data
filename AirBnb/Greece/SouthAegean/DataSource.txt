@@ -1,0 +1,3 @@
+The data provided by:
+
+http://insideairbnb.com/get-the-data
