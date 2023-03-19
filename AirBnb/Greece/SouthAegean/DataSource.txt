@@ -1,4 +1,6 @@
 The data provided by:
 http://insideairbnb.com/get-the-data
 
-Data with the "_all" ending are raw. The other datasets are ready for visualisations etc.
+In this github directory, only the preprocessed data have been uploaded. 
+The raw data are too large and can be accessed from the link above.
+
